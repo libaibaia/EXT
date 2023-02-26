@@ -1,7 +1,7 @@
 # EXT
 # BurpSuite插件
 
-- 本次内容主要是检测ACCESSKEYID泄露及fastjson漏洞检测
+- 检测ACCESSKEYID泄露及fastjson漏洞检测
   - 配置文件需要更改一下
 ![image](https://user-images.githubusercontent.com/108923559/221423179-c7373415-4eef-4652-953a-f8e46b9f8a34.png)
 
