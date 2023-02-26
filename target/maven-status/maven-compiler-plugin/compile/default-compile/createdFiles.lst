@@ -1,0 +1,3 @@
+com\ext\EXT.class
+com\ext\scanner\AKSKScanner.class
+com\ext\scanner\FastJsonScanner.class
